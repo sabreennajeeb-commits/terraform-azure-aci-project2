@@ -25,7 +25,7 @@ variable "dns_name_label" {
 variable "docker_image" {
   description = "Docker Hub image used by Azure Container Instance"
   type        = string
-  default     = "DOCKERHUB_USERNAME/cloudscale-project2:latest"
+  default     = "rahafmohammed1/cloudscale-project2:latest"
 }
 
 variable "student_name" {
