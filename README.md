@@ -1,3 +1,5 @@
+<img width="470" height="316" alt="Screenshot 2026-06-14 194754" src="https://github.com/user-attachments/assets/ef3eebe0-dbf2-4196-b3f2-ebb315be240a" />
+<img width="470" height="316" alt="Screenshot 2026-06-14 194754" src="https://github.com/user-attachments/assets/56536be8-c0ed-460e-9b1c-f3478df2d0cd" />
 # Project 2: Infrastructure as Code with Terraform and Azure ACI
 
 ## Author names and student IDs
@@ -316,6 +318,33 @@ Sweden Central
 ##Repository Link
 https://github.com/sabreennajeeb-commits/terraform-azure-aci-project2
 
+
+---
+
+## 📸 Project Screenshots
+
+### 1. Docker Image Build
+![Docker Build](images/Screenshot%202026-06-14%20194754.png)
+
+### 2. Docker Push to Docker Hub
+![Docker Push](images/Screenshot%202026-06-14%20195448.png)
+
+### 3. Terraform Plan Output
+![Terraform Plan](images/Screenshot%202026-06-14%20195519.png)
+
+### 4. Terraform Apply Output
+![Terraform Apply](images/Screenshot%202026-06-14%20195632.png)
+
+### 5. GitHub Actions (Pull Request / Plan)
+![GitHub Actions Plan](images/Screenshot%202026-06-14%20195644.png)
+
+### 6. GitHub Actions (Manual Approval / Apply)
+![GitHub Actions Apply](images/Screenshot%202026-06-14%20195709.png)
+
+### 7. Final Deployed Application & Azure Portal
+![Deployed App and Azure Portal](images/Screenshot%202026-06-14%20195730.png)
+
+---
 
 
 
